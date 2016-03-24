@@ -1,5 +1,4 @@
-# Earthquake
-Analysis of Earthquakes in the Himalayan Region for last 100 Years
+# Analysis of Earthquakes in the Himalayan Region for last 100 Years
 
 library(googleVis) # load googleVis library
 
